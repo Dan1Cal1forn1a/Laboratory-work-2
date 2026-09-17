@@ -17,3 +17,13 @@
 2. Открыть файл 3 через компилятор или среду разработки и запустить проект.
    * Ввести год, который необходимо проверить на то, високосный ли он.
 # Скриншоты тестов
+Тесты 1, 2 и 3 программы 1
+<img width="691" height="389" alt="image" src="https://github.com/user-attachments/assets/3ec48d3d-b720-4237-9654-0ae45f45f790" />
+Тест 1 программы 2
+<img width="974" height="269" alt="image" src="https://github.com/user-attachments/assets/6b02a00b-8edd-4240-b7f9-de563d3206c1" />
+Тест 2 программы 2
+<img width="991" height="161" alt="image" src="https://github.com/user-attachments/assets/680f963e-576f-4972-a0fe-5807135a490f" />
+Тест 3 программы 2
+<img width="1025" height="171" alt="image" src="https://github.com/user-attachments/assets/e001f227-aa83-4c47-b72b-d2f87c5f40e5" />
+Тесты 1, 2 и 3 программы 3
+<img width="537" height="229" alt="image" src="https://github.com/user-attachments/assets/580b0833-1987-436f-a764-d8e1a5d551ae" />
